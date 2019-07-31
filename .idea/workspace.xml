@@ -17,15 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
+            <state relative-caret-position="615">
               <caret line="41" column="23" selection-start-line="20" selection-start-column="6" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
@@ -34,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="735">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
@@ -43,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tmobile/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="315">
               <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
             </state>
           </provider>
@@ -52,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="465">
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -61,49 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="284" column="20" selection-start-line="284" selection-start-column="20" selection-end-line="284" selection-end-column="20" />
+            <state relative-caret-position="126">
+              <caret line="105" column="65" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5770#5782#0" expanded="true" />
-                <element signature="e#5827#5835#0" expanded="true" />
-                <element signature="e#6172#6184#0" expanded="true" />
-                <element signature="e#6420#6432#0" expanded="true" />
-                <element signature="e#6707#6715#0" expanded="true" />
-                <element signature="e#10679#10680#0" expanded="true" />
-                <element signature="e#10709#10710#0" expanded="true" />
-                <element signature="e#11161#11162#0" expanded="true" />
-                <element signature="e#11228#11229#0" expanded="true" />
-                <element signature="e#11915#11916#0" expanded="true" />
-                <element signature="e#11976#11977#0" expanded="true" />
-                <element signature="e#12744#12745#0" expanded="true" />
-                <element signature="e#12824#12825#0" expanded="true" />
-                <element signature="e#12875#12876#0" expanded="true" />
-                <element signature="e#12942#12943#0" expanded="true" />
-                <element signature="e#13061#13073#0" expanded="true" />
-                <element signature="e#13276#13288#0" expanded="true" />
-                <element signature="e#13521#13522#0" expanded="true" />
-                <element signature="e#13564#13565#0" expanded="true" />
-                <element signature="e#13909#13910#0" expanded="true" />
-                <element signature="e#13976#13977#0" expanded="true" />
-                <element signature="e#14230#14238#0" expanded="true" />
-                <element signature="e#15979#15980#0" expanded="true" />
-                <element signature="e#16027#16028#0" expanded="true" />
-                <element signature="e#16067#16068#0" expanded="true" />
-                <element signature="e#16117#16118#0" expanded="true" />
-                <element signature="e#17441#17442#0" expanded="true" />
-                <element signature="e#17508#17509#0" expanded="true" />
-                <element signature="e#17553#17554#0" expanded="true" />
-                <element signature="e#17633#17634#0" expanded="true" />
-                <element signature="e#17836#17837#0" expanded="true" />
-                <element signature="e#17902#17903#0" expanded="true" />
-                <element signature="e#18742#18743#0" expanded="true" />
-                <element signature="e#18800#18801#0" expanded="true" />
-                <element signature="e#18834#18835#0" expanded="true" />
-                <element signature="e#18874#18875#0" expanded="true" />
+                <element signature="e#6283#6295#0" expanded="true" />
+                <element signature="e#6344#6352#0" expanded="true" />
+                <element signature="e#6725#6737#0" expanded="true" />
+                <element signature="e#6993#7005#0" expanded="true" />
+                <element signature="e#7308#7316#0" expanded="true" />
+                <element signature="e#14291#14303#0" expanded="true" />
+                <element signature="e#14526#14538#0" expanded="true" />
+                <element signature="e#15588#15596#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EtradeBank/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="270">
               <caret line="18" column="19" selection-start-line="12" selection-start-column="3" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
@@ -121,8 +92,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Progressive/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="315">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Progressive/src/main/java/regression/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -130,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PNCbank/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="285">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
@@ -139,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KaiserGroup/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="285">
               <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
@@ -150,8 +130,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -166,6 +155,7 @@
         <option value="$PROJECT_DIR$/Tmobile/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI1.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Progressive/src/main/java/regression/HomePage.java" />
       </list>
     </option>
   </component>
@@ -202,11 +192,13 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-160" />
-    <option name="y" value="330" />
-    <option name="width" value="1935" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -214,113 +206,102 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="EtradeBank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="KaiserGroup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="PNCbank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
               <item name="Progressive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Finalframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Finalframe" type="462c0819:PsiDirectoryNode" />
-              <item name="Tmobile" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Progressive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources/Drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\Finalframe\Generic\src\main\java" />
-      <recent name="D:\java\Finalframe\Generic\src\main\resources\Drivers" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Progressive/src/main" />
       <recent name="D:\java\Finalframe\Tmobile\src\test" />
       <recent name="D:\java\Finalframe\Progressive\src\test" />
       <recent name="D:\java\Finalframe\PNCbank\src\test" />
       <recent name="D:\java\Finalframe\KaiserGroup\src\test" />
-      <recent name="D:\java\Finalframe\EtradeBank\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/resources/Drivers" />
+      <recent name="D:\java\Finalframe\Generic\src\main\java" />
+      <recent name="D:\java\Finalframe\Generic\src\main\resources\Drivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -406,19 +387,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -426,71 +403,47 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Jenkins" />
-      <window_info anchor="right" id="Jenkins X" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Jenkins" order="4" />
+      <window_info anchor="right" id="Jenkins X" order="5" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
+        <state relative-caret-position="615">
           <caret line="41" column="23" selection-start-line="20" selection-start-column="6" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EtradeBank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" selection-start-line="12" selection-start-column="3" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="735">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KaiserGroup/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PNCbank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Progressive/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tmobile/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="315">
           <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="465">
           <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -498,58 +451,137 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EtradeBank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="12" selection-start-column="3" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PNCbank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KaiserGroup/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="284" column="20" selection-start-line="284" selection-start-column="20" selection-end-line="284" selection-end-column="20" />
+        <state relative-caret-position="126">
+          <caret line="105" column="65" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5770#5782#0" expanded="true" />
-            <element signature="e#5827#5835#0" expanded="true" />
-            <element signature="e#6172#6184#0" expanded="true" />
-            <element signature="e#6420#6432#0" expanded="true" />
-            <element signature="e#6707#6715#0" expanded="true" />
-            <element signature="e#10679#10680#0" expanded="true" />
-            <element signature="e#10709#10710#0" expanded="true" />
-            <element signature="e#11161#11162#0" expanded="true" />
-            <element signature="e#11228#11229#0" expanded="true" />
-            <element signature="e#11915#11916#0" expanded="true" />
-            <element signature="e#11976#11977#0" expanded="true" />
-            <element signature="e#12744#12745#0" expanded="true" />
-            <element signature="e#12824#12825#0" expanded="true" />
-            <element signature="e#12875#12876#0" expanded="true" />
-            <element signature="e#12942#12943#0" expanded="true" />
-            <element signature="e#13061#13073#0" expanded="true" />
-            <element signature="e#13276#13288#0" expanded="true" />
-            <element signature="e#13521#13522#0" expanded="true" />
-            <element signature="e#13564#13565#0" expanded="true" />
-            <element signature="e#13909#13910#0" expanded="true" />
-            <element signature="e#13976#13977#0" expanded="true" />
-            <element signature="e#14230#14238#0" expanded="true" />
-            <element signature="e#15979#15980#0" expanded="true" />
-            <element signature="e#16027#16028#0" expanded="true" />
-            <element signature="e#16067#16068#0" expanded="true" />
-            <element signature="e#16117#16118#0" expanded="true" />
-            <element signature="e#17441#17442#0" expanded="true" />
-            <element signature="e#17508#17509#0" expanded="true" />
-            <element signature="e#17553#17554#0" expanded="true" />
-            <element signature="e#17633#17634#0" expanded="true" />
-            <element signature="e#17836#17837#0" expanded="true" />
-            <element signature="e#17902#17903#0" expanded="true" />
-            <element signature="e#18742#18743#0" expanded="true" />
-            <element signature="e#18800#18801#0" expanded="true" />
-            <element signature="e#18834#18835#0" expanded="true" />
-            <element signature="e#18874#18875#0" expanded="true" />
+            <element signature="e#6283#6295#0" expanded="true" />
+            <element signature="e#6344#6352#0" expanded="true" />
+            <element signature="e#6725#6737#0" expanded="true" />
+            <element signature="e#6993#7005#0" expanded="true" />
+            <element signature="e#7308#7316#0" expanded="true" />
+            <element signature="e#14291#14303#0" expanded="true" />
+            <element signature="e#14526#14538#0" expanded="true" />
+            <element signature="e#15588#15596#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Progressive/src/main/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Progressive/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Progressive/src/main/java/regression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Progressive</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

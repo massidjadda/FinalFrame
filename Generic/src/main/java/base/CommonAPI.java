@@ -103,7 +103,7 @@ import java.util.concurrent.TimeUnit;
          */
         public static WebDriver getLocalDriver(String browserName, String platform) {
             if (platform.equalsIgnoreCase("mac") && browserName.equalsIgnoreCase("chrome")) {
-                System.setProperty("webdriver.chrome.driver", "../Generic/src/main/resources/drivers/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "../Generic/src/main/resources/Drivers/chromedriver");
             } else if (platform.equalsIgnoreCase("windows") && browserName.equalsIgnoreCase("chrome")) {
                 System.setProperty("webdriver.chrome.driver", "../Generic\\src\\main\\resources\\drivers\\chromedriver2.exe");
             }
